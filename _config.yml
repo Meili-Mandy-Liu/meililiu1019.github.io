@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Meili (Mandy) Liu Website
 email: mxl2120@miami.edu
-description: "Personal website of Meili Liu" >- # this means to ignore newlines until "baseurl:"  
+description: "Research website of Meili (Mandy) Liu" >- # this means to ignore newlines until "baseurl:"  
 # baseurl: "/meililiu" # the subpath of your site, e.g. /blog
 baseurl: "/MeiliLiu.github.io" # the subpath of your site, e.g. /blog
 url: "https://meililiu1019.github.io" # the base hostname & protocol for your site, e.g. http://example.com
